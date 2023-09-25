@@ -1,0 +1,15 @@
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\Prova- 3° Bimestre.csproj.AssemblyReference.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\Prova- 3° Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\Prova- 3° Bimestre.AssemblyInfoInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\Prova- 3° Bimestre.AssemblyInfo.cs
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\Prova- 3° Bimestre.csproj.CoreCompileInputs.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\bin\Debug\net7.0\Prova- 3° Bimestre.exe
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\bin\Debug\net7.0\Prova- 3° Bimestre.deps.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\bin\Debug\net7.0\Prova- 3° Bimestre.runtimeconfig.json
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\bin\Debug\net7.0\Prova- 3° Bimestre.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\bin\Debug\net7.0\Prova- 3° Bimestre.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\Prova- 3° Bimestre.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\refint\Prova- 3° Bimestre.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\Prova- 3° Bimestre.pdb
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\Prova- 3° Bimestre.genruntimeconfig.cache
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3°Bimestre\Prova- 3° Bimestre\Prova- 3° Bimestre\obj\Debug\net7.0\ref\Prova- 3° Bimestre.dll
